@@ -1,0 +1,15 @@
+D:\дз\ДЗДвумерныеМассивы\Example03\bin\Debug\net6.0\Example03.exe
+D:\дз\ДЗДвумерныеМассивы\Example03\bin\Debug\net6.0\Example03.deps.json
+D:\дз\ДЗДвумерныеМассивы\Example03\bin\Debug\net6.0\Example03.runtimeconfig.json
+D:\дз\ДЗДвумерныеМассивы\Example03\bin\Debug\net6.0\Example03.dll
+D:\дз\ДЗДвумерныеМассивы\Example03\bin\Debug\net6.0\Example03.pdb
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.csproj.AssemblyReference.cache
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.AssemblyInfoInputs.cache
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.AssemblyInfo.cs
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.csproj.CoreCompileInputs.cache
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.dll
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\refint\Example03.dll
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.pdb
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\Example03.genruntimeconfig.cache
+D:\дз\ДЗДвумерныеМассивы\Example03\obj\Debug\net6.0\ref\Example03.dll
